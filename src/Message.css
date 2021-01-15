@@ -1,0 +1,34 @@
+.message{
+    padding: 10px ;
+    margin: 10px ;
+    width: fit-content ;
+}
+.message_user{
+    margin-left: auto;
+    color: white;
+    text-align: left !important;
+}
+.message_userCard{
+    background-color: rgb(196, 132, 255) !important;
+    border-radius: 20px !important;
+    height: fit-content;
+    font-size: small;
+    padding: 10px;
+    font-weight: 500;
+
+
+
+
+}
+.message_guestCard{
+    background-color: rgb(253, 249, 241) !important;
+    border-radius: 20px !important;
+    height: fit-content;
+    font-size: small;
+    padding: 10px;
+    font-weight: 500;
+
+}
+.message_guestCardusername_strong{
+    font-weight: 1200;
+}
